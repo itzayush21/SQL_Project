@@ -58,12 +58,8 @@ The primary goal of this project is to design and implement a scalable **Modern 
 <img width="998" height="502" alt="image" src="https://github.com/user-attachments/assets/f0b5d26b-2d64-4147-b161-7233e0efa9ef" />
 
 
+## DATA MODELLING
 
 
-
-
-
-
-- Data Analytics
 
 
